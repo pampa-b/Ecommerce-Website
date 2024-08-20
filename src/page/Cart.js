@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Cart = () => {
+export const Cart = () => {
   return <Wrapper></Wrapper>;
 };
 
@@ -179,4 +179,3 @@ const Wrapper = styled.section`
   }
 `;
 
-export default Cart;

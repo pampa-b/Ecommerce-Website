@@ -1,6 +1,8 @@
 import styled from "styled-components";
+export const  SingleProduct=()=>{
+    return<Wrapper><h1> SingleProduct Page</h1></Wrapper>;
+}
 
-return <Wrapper></Wrapper>;
 
 const Wrapper = styled.section`
   .container {
@@ -75,4 +77,4 @@ const Wrapper = styled.section`
   }
 `;
 
-export default SingleProduct;
+
